@@ -27,8 +27,6 @@ public class SwaggerConfig {
 				.build()
 				.apiInfo(apiInfo());
 	}
-	
-	
 	private ApiInfo apiInfo(){
 		
 		Contact contact = new Contact("admin", "https://SIddharth3791.github.io/", "spatel3791@gmail.com");
